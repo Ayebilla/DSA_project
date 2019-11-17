@@ -32,7 +32,7 @@ public class weightedGraph {
     }
     
  // Implementing Dijkstra's Algorithm method
- public /*return type */ maxProfitablePath(weigthedGraph graph, currencyNode source, currencyNode dest){
+ public /*return type */ profitablePath(weigthedGraph graph, currencyNode source, currencyNode dest){
       
 
 public int getnumOfcurrencies(){return adjacentVertices.size();}
