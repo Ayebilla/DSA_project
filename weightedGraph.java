@@ -30,7 +30,10 @@ public class weightedGraph {
         currencies.get(s2).addNeighbor(curr1, w1);
 
     }
-
+    
+ // Implementing Dijkstra's Algorithm method
+ public /*return type */ maxProfitablePath(weigthedGraph graph, currencyNode source, currencyNode dest){
+      
 
 public int getnumOfcurrencies(){return adjacentVertices.size();}
 
